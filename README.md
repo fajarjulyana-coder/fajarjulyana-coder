@@ -108,7 +108,7 @@ I’m open to:
 * 🎓 Mentorships or community dev
 * 📬 Freelance or contract work
 
-📧 Email: **[fajarjulyana@example.com](mailto:fajarjulyana@example.com)**
+📧 Email: **[fajarjulyana@yandex.com](mailto:fajarjulyana@yandex.com)**
 📌 Telegram / Discord / GitHub Discussions — DM me!
 
 ---
@@ -117,11 +117,4 @@ I’m open to:
 
 ```
 
----
-
-### 📌 Catatan:
-
-- Ganti `fajarjulyana@example.com` dengan email aslimu (atau hapus jika tidak ingin tampil publik).
-- Aktifkan GitHub Stats di halaman: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) jika ingin bagian itu tampil dinamis.
-- Pastikan kamu sudah membuat repo bernama **`fajarjulyana-coder`** agar README ini tampil di halaman utama profilmu.
 
