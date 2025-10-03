@@ -108,8 +108,27 @@ I’m open to:
 * 🎓 Mentorships or community dev
 * 📬 Freelance or contract work
 
-📧 Email: **[fajarjulyana@yandex.com](mailto:fajarjulyana@yandex.com)**
-📌 Telegram / Discord / GitHub Discussions — DM me!
+## 🤝 Let's Collaborate
+
+I’m open to:
+
+- 🔧 Open source collaboration  
+- 🧪 Experimental & audio tech projects  
+- 🎓 Mentorships or community dev  
+- 📬 Freelance or contract work
+
+📧 Email: **[fajarjulyana@yandex.com](mailto:fajarjulyana@yandex.com)**  
+📱 WhatsApp: **+62 818-0441-1937**  
+[![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6281804411937)
+
+📺 YouTube: [@fajarjulyana1](https://www.youtube.com/@fajarjulyana1)  
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@fajarjulyana1)
+
+📷 Instagram: [@fajarjulyana](https://www.instagram.com/fajarjulyana/)  
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fajarjulyana/)
+
+💬 Telegram / Discord / GitHub Discussions — DM me!
+
 
 ---
 
