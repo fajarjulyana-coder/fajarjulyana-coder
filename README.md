@@ -70,9 +70,6 @@ I’m a versatile developer with a broad technical skill set covering:
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
-
-## 🛠️ Build → Package → Deploy Workflow
-
 ## 🛠️ Build → Package → Deploy Workflow
 
 ```mermaid
