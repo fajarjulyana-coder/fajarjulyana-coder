@@ -127,10 +127,7 @@ I’m open to:
 💬 Telegram / Discord / GitHub Discussions — DM me!
 
 
----
+⚡ Powered by curiosity. Running on Arch Linux. Compiled with passion.
 
-> ⚡ Powered by curiosity. Running on Arch Linux. Compiled with passion.
-
-```
 
 
