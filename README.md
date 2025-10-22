@@ -87,15 +87,6 @@ graph TD
 
 ## 📈 GitHub Stats (Optional)
 
-> Aktifkan dengan mengunjungi: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-```markdown
-![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajarjulyana-coder&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarjulyana-coder&layout=compact&theme=radical)
-```
-
----
-
 ## 🤝 Let's Collaborate
 
 I’m open to:
